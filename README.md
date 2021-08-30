@@ -54,3 +54,12 @@ The results of the School District Analysis changed significantly due to the pot
 
   ![scores_by_type](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/scores_by_type.png)
 
+  
+
+## Summary of Analysis
+
+Despite having 461 students' scores removed from the dataset, the impact on the school district's summary was minimal. This is because the average of the 9<sup>th</sup> grade scores at THS that were thrown out were **almost identical** to the average of the 10<sup>th</sup>-12<sup>th</sup> grade scores at THS.
+
+When we make comparisons at the district level (scores by spending/school size/school type), Thomas High School is considered as a part of a whole. Since THS's **averages** remained almost the same, the absence of the 9<sup>th</sup> grade data became inconsequential at the macro level. There were, however, a few things that changed:
+
+1. 
