@@ -41,3 +41,6 @@ The results of the School District Analysis changed significantly due to the pot
 | Before PAD | ![math_by_grade_before](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/math_by_grade_before.png) | ![read_by_grade_before](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/read_by_grade_before.png) |
 | After PAD  | ![math_by_grade_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/math_by_grade_after.png) | ![read_by_grade_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/read_by_grade_after.png) |
 
+- **Scores by school spending** were unaffected up to the level of precision included in the DataFrame, that is, to the tenths place for Average Scores and the nearest whole number for Passing Percentages. Both the "before PAD" and "after PAD" look like this:
+
+![scores_by_spending](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/scores_by_spending.png)
