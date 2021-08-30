@@ -19,9 +19,9 @@ The results of the School District Analysis changed significantly due to the pot
 
   ![district_summary_before](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/district_summary_before.png)
 
-​	**After PAD:**
+  **After PAD:**
 
-​	![district_summary_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/district_summary_after.png)
+  ![district_summary_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/district_summary_after.png)
 
 - The **school summary** was not significantly impacted by the PAD. The per school statistics did not change at all, aside from THS, who experienced marginal decreases across the board in scores and passing rates.
 
@@ -31,9 +31,9 @@ The results of the School District Analysis changed significantly due to the pot
 
   ![school_summary_before](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/school_summary_before.png)
 
-​	**After PAD:**
+  **After PAD:**
 
-​	![school_summary_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/school_summary_after.png)
+  ![school_summary_after](https://github.com/cdeanatx/School_District_Analysis/blob/main/Analysis_Images/school_summary_after.png)
 
 - **Math and reading scores by grade** were only affected for the THS freshman class. Since none of the THS freshman class' scores were counted, they do not have valid averages and the "after" DataFrame returns `nan`.
 
