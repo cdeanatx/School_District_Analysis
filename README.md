@@ -62,4 +62,8 @@ Despite having 461 students' scores removed from the dataset, the impact on the 
 
 When we make comparisons at the district level (scores by spending/school size/school type), Thomas High School is considered as a part of a whole. Since THS's **averages** remained almost the same, the absence of the 9<sup>th</sup> grade data became inconsequential at the macro level. There were, however, a few things that changed:
 
-1. 
+1. THS's average math score dropped by about 0.07%.
+2. THS's average reading score rose by about 0.05%.
+3. The percentage of THS students that passed math dropped by about 0.09%.
+4. The percentage of THS students that passed reading dropped by about 0.29%.
+5. The percentage of THS students that passed both math and reading dropped by about 0.32%.
